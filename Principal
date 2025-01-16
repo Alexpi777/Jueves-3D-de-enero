@@ -4,7 +4,7 @@ using UnityEngine;
 
 Comando básico
 
- 
+ Codigo teletransporte
     public class Teleporter : MonoBehaviour
     {
         new public Collider collider;//identifica el collider del objeto
